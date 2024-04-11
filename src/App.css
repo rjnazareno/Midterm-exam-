@@ -1,0 +1,15 @@
+.App {
+  box-sizing: border-box;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.Nazareno {
+  border: 2px solid rgb(8, 0, 0);
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+}
